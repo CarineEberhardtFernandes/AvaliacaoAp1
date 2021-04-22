@@ -1,5 +1,5 @@
 git clone: para clonar a pasta do repositorio remoto
-git status: verificar se tem arquivo diferente no repositorio normal
+git status: verificar se tem arquivo diferente no repositorio
 git add . : para adicionar arquivo para enviar
 git commit -m "msg": para etiquetar o arquivo
 git push: para enviar o arquivo ao repositorio remoto
